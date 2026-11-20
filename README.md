@@ -1,4 +1,4 @@
-# PapyrusTaskScheduler
+# Papyrus Task Scheduler
 
 A native SKSE plugin (CommonLibSSE-NG) that gives any mod a save-specific, one-shot task scheduler without a companion ESP, a quest script, or a `utility.Wait` loop.
 
