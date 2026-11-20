@@ -1,0 +1,15 @@
+{
+  "default-registry": {
+    "kind": "git",
+    "repository": "https://github.com/microsoft/vcpkg.git",
+    "baseline": "cc288af760054fa489574bd8e22d05aa8fa01e5c"
+  },
+  "registries": [
+    {
+      "kind": "git",
+      "repository": "https://github.com/marthofdoom/vcpkg-registry",
+      "baseline": "9ad385261408b68f6a4b760c8ab3c3b9ac1452c6",
+      "packages": ["commonlibsse-ng"]
+    }
+  ]
+}
